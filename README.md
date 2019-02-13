@@ -4,23 +4,19 @@ _6 weeks - 4 hours per week (24 hours total)_
 
 ## Course Description:
 
-Over the course of six weeks, students learn the basics of front-end web development. Students will learn the basic practices, fundamentals and ideas behind creating dynamic websites with HTML, CSS, and JavaScript. With a focus on applied knowledge, students will get hands on practice using HTML to create good pages structures, CSS to implement modern designs, and JavaScript to make the pages dynamic and interactive. This course can also be utilized as a preview to the full 12-week program, giving students new to development exposure to what the full time course would feel like and a great introduction to being a developer.
+Throughout this six-week course, students learn the basics of front-end web development. Students will learn the basic practices, fundamentals, and ideas behind creating dynamic websites with HTML, CSS, and JavaScript. With a focus on applied knowledge, students will get hands-on training using HTML to create semantic pages structures, CSS to implement modern designs, and JavaScript to make the pages dynamic and interactive. This course can also be utilized as a preview to the immersive 12-week program, giving students new to development exposure to what the full-time course would feel like and a great introduction to being a developer.
 
 ## Expected Outcomes:
 
-- Understand basic developer workflow
+By the end of the course, students should be able to:
 
-- Use HTML to structure a website
-
-- Use CSS to style and layout a website
-
-- Use JavaScript to manipulate and HTML page
-
+- Explain the basic developer workflow
+- Implement semnatic HTML to structure a webpage's content
+- Implement CSS to style and layout a webpage's presentation
+- Implement JavaScript to manipulate and HTML webpage's behavior
 - Solve simple problems with JavaScript
-
-- Consume, using JavaScript, APIs to build data driven websites.
-
-- Deploy a website to the internet
+- Utilize, using JavaScript, APIs to build data driven websites
+- Create a website and deploy it to the internet
 
 ## Class Structure:
 
@@ -32,9 +28,9 @@ During the course, students will have lab hours.
 
 // TODO: fill this in
 
-# Curriculum Overview:
-
 ## Schedule
+
+Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:30pm
 
 | Week # |   First Lecture   |     Second Lecture      |
 | :----: | :---------------: | :---------------------: |
@@ -45,68 +41,55 @@ During the course, students will have lab hours.
 |   5    |  PEDAC practice   | Practice(HTML, CSS, JS) |
 |   6    |    Using APIs     | Practice(HTML, CSS, JS) |
 
-## Week One: HTML and CSS Foundation
+## Course Outline
+
+### Week One: HTML and CSS Foundations
 
 **Instruction:**
 
 - Using a developer environment (Git, IDE, terminal)
-
 - Deploy a web page
-
 - Basics of HTML and HTML5
-
 - Using semantic HTML
-
 - Using CSS to style a page
-
 - Using CSS to layout a page
-
 - How to breakdown and implement a basic webpage design
 
-## Week Two: HTML and CSS Mastery
+### Week Two: HTML and CSS Mastery
 
 **Instruction:**
 
 - Creating Responsive webpages
-
 - Advanced CSS tricks (variables, pseudo-selectors, etc... )
+- Using CDNs
 
-- using CDNs
-
-## Week three: Using JavaScript on a webpage
+### Week Three: Using JavaScript on the Web
 
 **Instruction:**
 
-- What is the DOM
-
+- What is the DOM?
 - Using JavaScript on a webpage
-
 - Control Flow (if, loops, functions)
-
 - Basic algorithmic thinking
 
-## Week four: Data Structures and Algorithms
+## Week Four: Data Structures and Algorithms
 
 **Instruction:**
 
 - Arrays
-
 - Objects
-
 - Map, filter, reduce
-
 - Applications of Algorithms
 
-## Week five: Renforcement of JavaScript
+## Week Five: Problem Solving with JavaScript
 
 **Instruction:**
 
 - Practical application of PEDAC and JavaScript
 
-## Week six: APIs and bringing it all together
+## Week Six: APIs and Bringing it all Together
 
 **Instruction:**
 
 - Using an API to get data
-
 - Building a full website, using an API
