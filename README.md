@@ -32,14 +32,14 @@ During the course, students will have lab hours.
 
 Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:30pm
 
-| Week # |   First Lecture   |     Second Lecture      |
-| :----: | :---------------: | :---------------------: |
-|   1    |   Dev Env, HTML   |      Intro to CSS       |
-|   2    |  Responsive CSS   |   Practice(HTML, CSS)   |
-|   3    | Intro to JS & DOM |     Control Flow I      |
-|   4    |  Data Structures  |      functional JS      |
-|   5    |  PEDAC practice   | Practice(HTML, CSS, JS) |
-|   6    |    Using APIs     | Practice(HTML, CSS, JS) |
+| Week # |   First Lecture   |     Second Lecture      |           Possible Projects            |
+| :----: | :---------------: | :---------------------: | :------------------------------------: |
+|   1    |   Dev Env, HTML   |      Intro to CSS       |      (hello world, daily kitteh)       |
+|   2    |  Responsive CSS   |   Practice(HTML, CSS)   |          (octcat, portfolio)           |
+|   3    | Intro to JS & DOM |     Control Flow I      | (scoreboard, scoreboard ii, roshambo ) |
+|   4    |  Data Structures  |      functional JS      |       (shuffle deck, blackjack)        |
+|   5    |  PEDAC practice   | Practice(HTML, CSS, JS) |                 (???)                  |
+|   6    |    Using APIs     | Practice(HTML, CSS, JS) |             (weather API)              |
 
 ## Course Outline
 
