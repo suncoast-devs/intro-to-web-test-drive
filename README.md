@@ -26,7 +26,8 @@ During the course, students will have lab hours.
 
 ## Instructor Bio:
 
-// TODO: fill this in
+Liz is a recovering academic turned javascript developer thanks to The Iron Yard. When TIY shut down, she helped rebrand and continue the classes as Suncoast Developers Guild Jr so children could learn to code for free. Liz became the first Tampa City Organizer for Tech Ladies, is involved in multiple local tech groups, and has spoken at meet ups and conferences about web accesibility and React Native support for Android. She has professional experience working in Rails, React and React Native.  In her previous life as a film academic, she taught university students and created the curriculum for the university's summer school program.
+
 
 ## Schedule
 
