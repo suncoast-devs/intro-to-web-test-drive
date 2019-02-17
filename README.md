@@ -34,8 +34,8 @@ Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:
 |   2    |  Responsive CSS   |   Practice(HTML, CSS)   |          (octcat, portfolio)           |
 |   3    | Intro to JS & DOM |     Control Flow I      | (scoreboard, scoreboard ii, roshambo ) |
 |   4    |  Data Structures  |      functional JS      |       (shuffle deck, blackjack)        |
-|   5    |  PEDAC practice   | Practice(HTML, CSS, JS) |                 (???)                  |
-|   6    |    Using APIs     | Practice(HTML, CSS, JS) |             (weather API)              |
+|   5    |    Using APIs     | Practice(HTML, CSS, JS) |        (weather API, Astro API)        |
+|   6    |  PEDAC practice   | Practice(HTML, CSS, JS) |                  N/A                   |
 
 ## Course Outline
 
@@ -77,15 +77,15 @@ Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:
 - Map, filter, reduce
 - Applications of Algorithms
 
-## Week Five: Problem Solving with JavaScript
-
-**Instruction:**
-
-- Practical application of PEDAC and JavaScript
-
-## Week Six: APIs and Bringing it all Together
+## Week Five: APIs and Bringing it all Together
 
 **Instruction:**
 
 - Using an API to get data
 - Building a full website, using an API
+
+## Week Six: Problem Solving with JavaScript
+
+**Instruction:**
+
+- Practical application of PEDAC and JavaScript
