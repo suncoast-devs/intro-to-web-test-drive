@@ -24,10 +24,6 @@ Each lesson will be taught in a two hour block, with a homework assignment that 
 
 During the course, students will have lab hours.
 
-## Instructor Bio:
-
-// TODO: fill this in
-
 ## Schedule
 
 Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:30pm
