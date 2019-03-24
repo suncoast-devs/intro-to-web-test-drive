@@ -24,7 +24,7 @@ VS Code is a extendable lightweight editor that allows us to see what is going o
 
 After [downloading VS Code](https://code.visualstudio.com), double-click the ZIP file to extract the application. Then drag the VS Code icon to our Applications folder.
 
-See setup instructions here under `VS Code`: [Editors](/handbook/tools/editors)
+See setup instructions here under `VS Code`: [Editors](https://suncoast.io/handbook/tools/editors/)
 
 # Mac OS X - Setting up your Development Environment
 
@@ -32,7 +32,7 @@ See setup instructions here under `VS Code`: [Editors](/handbook/tools/editors)
 
 Terminal.app is the application that allows us to run our `shell` -- the default shell we will use is called `bash`
 
-A shell is a program that allows us to interact with our computer by executing commands and seeing the results. For a tutorial on using a shell, see [this page](/handbook/skills/command-line)
+A shell is a program that allows us to interact with our computer by executing commands and seeing the results. For a tutorial on using a shell, see [this page](https://suncoast.io/handbook/tools/command-line)
 
 ## How
 
