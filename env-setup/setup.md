@@ -73,6 +73,16 @@ Start Terminal application and copy the following line and paste it into your te
 
 The installation may prompt you for your password several times (your password won't show on screen when you type it) and it may take a while to complete the installation
 
+## Github
+
+Github is an online software development platform and provides version control.  It makes it easy to colaborate with others, and it is where we will be saving our work, submitting assignments, and sharing code.  Github utlizes Git, and Git which can be used with other platforms, such as BitBucket or GitLab.
+
+Visit [www.gitbhub.com](www.github.com) and creat an account.
+
+Create a new repository and name it `assignments`.  
+
+Homework will be assigned as issues in this repo.  
+
 ## Git
 
 Git is a distributed source control system. This allows us to work on and collaborate on different projects with little to no headache.
