@@ -4,7 +4,7 @@
 
 [How to Keep a downstream git repo current with upstream](https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97)
 
-## Hub
+## [Hub](https://hub.github.com/)
 
 ### clone your own project
 
