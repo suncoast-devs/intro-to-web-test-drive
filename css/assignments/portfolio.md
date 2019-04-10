@@ -1,6 +1,8 @@
+Part of your homework is to finish and submit previous homework assignments.  Please slack if you are having trouble submitting.
+
 # A Portfolio
 
-For your first weekend project, we're going to be starting work on a portfolio website that you can improve over the rest of your career.
+Today we started on our portfolio site.  Your assignment is to continue building on it and by the end of the course, you should have a personal portfolio you can share.
 
 ![Mockup](https://raw.githubusercontent.com/tiy-tpa-fee/assignments/master/portfolio/mockup.png)
 
@@ -26,16 +28,17 @@ Also, feel free to change it from Jason's picture to a picture of yourself.
 
 ### Explorer Mode
 
-- [ ] Recreate the page as closely as you possibly can. Use the same fonts, sizes, and colors.
-- [ ] Make sure the site is responsive.
+- [ ] Finish and submit your previous assignments.
+- [ ] Create a web version of wireframes. 
+- [ ] Make sure the site is responsive.  Do not worry about images or content.
 - [ ] Deploy your site
 
 ### Adventure Mode
 
-- [ ] Take the time to personalize the site with information about yourself, links to your projects, and your pictures.
-- [ ] Keep it professional, but make it your own.
+- [ ] Make the site look as similar to the mock-up as possible using the assets provided above.
 
 ### Epic Mode
 
-- [ ] Go back and work on the adventure or epic mode for a past assignment.
+- [ ] Take the time to personalize the site with information about yourself, links to your projects, and your pictures.
+- [ ] Keep it professional, but make it your own.
 - [ ] Start to research [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
