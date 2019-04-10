@@ -240,3 +240,9 @@ document.addEventListener("DOMContentLoaded", main);
 ## DEMO: a simple "how many times have your clicked this button"
 
 (approx 1:35:00)
+
+## Additional resources
+
+[w3schools](https://www.w3schools.com/js/js_intro.asp)
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+[Girl Develop It - Intro to Javascript](https://www.girldevelopit.com/materials/intro-js)
