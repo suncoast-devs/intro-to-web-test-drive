@@ -11,7 +11,7 @@ Throughout this six-week course, students learn the basics of front-end web deve
 By the end of the course, students should be able to:
 
 - Explain the basic developer workflow
-- Implement semnatic HTML to structure a webpage's content
+- Implement semantic HTML to structure a webpage's content
 - Implement CSS to style and layout a webpage's presentation
 - Implement JavaScript to manipulate and HTML webpage's behavior
 - Solve simple problems with JavaScript

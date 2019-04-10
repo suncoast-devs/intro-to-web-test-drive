@@ -23,6 +23,7 @@ Unfortunately, the Octodex is not responsive\*! Today, your task is to recreate 
 
 ### Explorer Mode
 
+- [ ] Go through [https://flexboxfroggy.com](https://flexboxfroggy.com)
 - [ ] Recreate the page as closely as you possibly can. Use the same fonts, sizes, and colors. Download some of your favorites
 - [ ] Use _some_ Octocat images to use in your page (12-16 or so). Your layout should be flexible but doesn't need to _perfectly_ responsive.
 - [ ] Use flexbox styles to layout the header and the Octocats (hint: check out the `flex-wrap` property).
