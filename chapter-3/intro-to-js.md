@@ -50,9 +50,8 @@ The JavaScript console is where we can output messages to ourselves (the develop
 - `console.log`
 
   ```javascript
-  console.log("Hello World");
+  console.log('Hello World')
   ```
-
 
 ## What is the DOM (Document Object Model)
 
@@ -155,11 +154,11 @@ The JavaScript console is where we can output messages to ourselves (the develop
 
 ```javascript
 const main = () => {
-  document.querySelector("h1").textContent += "?";
-};
+  document.querySelector('h1').textContent += '?'
+}
 
 // when DOMContentLoaded happens, call main
-document.addEventListener("DOMContentLoaded", main);
+document.addEventListener('DOMContentLoaded', main)
 ```
 
 ## DEMO: a simple "how many times have your clicked this button"

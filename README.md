@@ -41,6 +41,8 @@ Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:
 
 ## Course Outline
 
+Over the course, you will be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
+
 ### Chapter 1: Dev Env and HTML Application
 
 **Instruction:**

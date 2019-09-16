@@ -23,14 +23,13 @@ For this assignment, you will following along with you instructors to complete t
 
 ### Explorer Mode
 
-- [ ] Follow all of the [setup instructions](https://suncoast.io/handbook/tools/assignment-setup).
 - [ ] Compose a short essay (just a couple paragraphs at most) about a hobby you either enjoy, or would like to learn about. We will be expanding on this page in future assignments, so pick something fun!
 - [ ] Put your short essay into an HTML page, using appropriate semantic HTML tags. (See the link `HTML Tag Reference` below). Give your webpage a simple header and footer as well.
 - [ ] Deploy your site.
 
 ### Adventure Mode
 
-- [ ] Use at least one image somewhere on the page.
+- [ ] Use at least 1 image somewhere on the page.
 - [ ] Learn about and investigate the `a` to add (at least 2) more pages to your site.
 - [ ] Re-deploy your site.
 - [ ] [Read more about CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS).
@@ -47,10 +46,6 @@ For this assignment, you will following along with you instructors to complete t
 - [HTML Tag Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [How do HTML Tags work](https://developer.mozilla.org/en-US/Learn/HTML/HTML_tags)
 - [Evolution of the Web](http://www.evolutionoftheweb.com)
-- [Atom Flight Manual](https://flight-manual.atom.io)
-  - [Moving in Atom](https://flight-manual.atom.io/using-atom/sections/moving-in-atom/)
-  - [Selecting Text](https://flight-manual.atom.io/using-atom/sections/atom-selections/)
-  - [Find and Replace](https://flight-manual.atom.io/using-atom/sections/find-and-replace/)
 - [Getting started with VS Code](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Visual Studio Code Basics](https://code.visualstudio.com/docs/introvideos/basics)
 
