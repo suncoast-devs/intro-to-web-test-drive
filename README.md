@@ -24,11 +24,11 @@ By the end of the course, students should be able to:
 
 Each lesson will be taught in a two hour block. There will be one ongoing homework assignment that is assigned at the end of day 2. This will be one big website that the student will grow over the course.
 
-During the course, students will have optional lab hours.
-
 ## Schedule
 
-Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:30pm
+Monday and Wednesday: 6:30pm - 8:30p
+
+_Course schedule might change at instructors discretion._
 
 | Week # |    First Lecture    |     Second Lecture      |                  Projects                  |
 | :----: | :-----------------: | :---------------------: | :----------------------------------------: |
