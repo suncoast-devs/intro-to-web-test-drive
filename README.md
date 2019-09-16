@@ -43,17 +43,22 @@ Monday and Wednesday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:
 
 Over the course, you will be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
 
-### Chapter 1: Dev Env and HTML Application
+### Chapter 0: Dev Env
 
 **Instruction:**
 
 - Using a developer environment (Git, IDE, terminal)
 - Deploy a web page
+
+### Chapter 1: HTML
+
+**Instruction:**
+
 - Basics of HTML and HTML5
 - Using semantic HTML
 - How to breakdown and implement a basic webpage design
 
-### Chapter Two: CSS Application
+### Chapter 2: CSS Application
 
 **Instruction:**
 
@@ -63,7 +68,7 @@ Over the course, you will be creating a clone of [https://sdg-tourism.netlify.co
 - Advanced CSS tricks (variables, pseudo-selectors, etc... )
 - Using CDNs
 
-### Chapter Three: JavaScript on the Web
+### Chapter 3: JavaScript on the Web
 
 **Instruction:**
 
@@ -72,7 +77,7 @@ Over the course, you will be creating a clone of [https://sdg-tourism.netlify.co
 - Control Flow (if, loops, functions)
 - Basic algorithmic thinking
 
-## Chapter Four: Data Structures and Algorithms
+## Chapter 4: Data Structures and Algorithms
 
 **Instruction:**
 
@@ -81,7 +86,7 @@ Over the course, you will be creating a clone of [https://sdg-tourism.netlify.co
 - Map, filter, reduce
 - Applications of Algorithms
 
-## Chapter Five: APIs and Bringing it all Together
+## Chapter 5: APIs and Bringing it all Together
 
 **Instruction:**
 
