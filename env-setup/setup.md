@@ -24,7 +24,7 @@ VS Code is a extendable lightweight editor that allows us to see what is going o
 
 After [downloading VS Code](https://code.visualstudio.com), double-click the ZIP file to extract the application. Then drag the VS Code icon to our Applications folder.
 
-See setup instructions here under `VS Code`: [Editors](/handbook/tools/editors)
+See setup instructions here under `VS Code`: [Editors](https://suncoast.io/handbook/tools/editors/)
 
 # Mac OS X - Setting up your Development Environment
 
@@ -32,7 +32,7 @@ See setup instructions here under `VS Code`: [Editors](/handbook/tools/editors)
 
 Terminal.app is the application that allows us to run our `shell` -- the default shell we will use is called `bash`
 
-A shell is a program that allows us to interact with our computer by executing commands and seeing the results. For a tutorial on using a shell, see [this page](/handbook/skills/command-line)
+A shell is a program that allows us to interact with our computer by executing commands and seeing the results. For a tutorial on using a shell, see [this page](https://suncoast.io/handbook/tools/command-line)
 
 ## How
 
@@ -72,6 +72,16 @@ Start Terminal application and copy the following line and paste it into your te
 ```
 
 The installation may prompt you for your password several times (your password won't show on screen when you type it) and it may take a while to complete the installation
+
+## Github
+
+Github is an online software development platform and provides version control.  It makes it easy to colaborate with others, and it is where we will be saving our work, submitting assignments, and sharing code.  Github utlizes Git, and Git which can be used with other platforms, such as BitBucket or GitLab.
+
+Visit [www.gitbhub.com](www.github.com) and creat an account.
+
+Create a new repository and name it `assignments`.  
+
+Homework will be assigned as issues in this repo.  
 
 ## Git
 
