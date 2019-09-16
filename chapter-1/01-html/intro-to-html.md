@@ -1,6 +1,6 @@
 # Intro to HTML
 
-This is the basic intro to HTML. This lecture is what will introduce students to a _very_ high livel idea of how the web works as well as what HTML is and how to use it to create semantic mark up for a page.
+This is the basic intro to HTML. This lecture is what will introduce students to a _very_ high level idea of how the web works as well as what HTML is and how to use it to create semantic mark up for a page.
 
 ## Learning Objectives
 
@@ -23,10 +23,11 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 - Full sample is `app-app` template.
 - list of tags here: https://suncoast.io/handbook/curriculum/fundamentals/static-sites/lectures/elements-we-like
+  https://github.com/gstark/answer-key/tree/master/part-time/tourism
 
 ## Lecture notes
 
-- start off by walking through the high level request/repsonse lifecycle if html
+- start off by walking through the high level request/response life cycle of HTTP
   - browser makes a request to a server with a url
   - server response with a response, for today, that response is HTML
 - make our first HTML page using `app-app`
@@ -47,7 +48,7 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 ## Possible Assignments
 
-- `hello-world` - Create a simple HTML page about a hobby and deploy it.
+- `open a restaurant` - Create the HTML for the restaurant you will be working on for the next assignments.
 
 ## Additional Resources
 
