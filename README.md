@@ -82,8 +82,8 @@ Over the course, you will be creating a clone of [https://sdg-tourism.netlify.co
 **Instruction:**
 
 - Arrays
-- Objects
 - Map, filter, reduce
+- Objects
 - Applications of Algorithms
 
 ## Chapter 5: APIs and Bringing it all Together
