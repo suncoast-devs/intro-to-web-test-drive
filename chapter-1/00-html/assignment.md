@@ -6,7 +6,7 @@ All web pages have to start somewhere, and this site is no different. To start o
 
 To start, you will need to start with the HTML and content.
 
-[Here is a sample]()
+[Here is a sample](https://sdg-restaurant-html.netlify.com)
 
 ### Requirements
 
