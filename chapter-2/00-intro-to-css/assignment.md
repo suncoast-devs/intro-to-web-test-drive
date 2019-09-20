@@ -1,4 +1,4 @@
-# It all starts with HTML
+# CSS all the things .
 
 During the course,you will be building a website for your new chain of restaurants. This will have a few pages and will serve for us as a playground to learn about web development.
 
