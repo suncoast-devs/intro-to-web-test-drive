@@ -13,6 +13,10 @@ For this assignment you will be taking the HTML you made for the last project an
 ### Explorer Mode
 
 - [ ] Take the CSS ideas and tools that was discussed in class and apply those to your homework.
+- [ ] Successfully deploy your site and submit your repository in Github
+
+### Adventure Mode
+- [ ] Play [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
 
 ### Additional Resources
 
