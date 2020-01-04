@@ -1,6 +1,6 @@
 # It all starts with HTML
 
-During the course,you will be building a website for your new chain of restaurants. This will have a few pages and will serve for us as a playground to learn about web development.
+Over the course, you will be builing a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). This will have a few pages and will serve for us as a playground to learn about web development.
 
 All web pages have to start somewhere, and this site is no different. To start off, you will be laying the groundwork for the weeks to come.
 
@@ -10,18 +10,18 @@ To start, you will need to start with the HTML and content.
 
 ### Requirements
 
-- Name your restaurant and decide what type of food you will be selling. This is just a starting point, do not get too hung on this.
+- Name your new company and decide what you are selling or providing. This is just a starting point, do not get too hung on this.
 - Create the Content for your page
 - Craft semantic HTML for your landing page.
 
 ### Explorer Mode
 
-- [ ] Decided on the details for your restaurant. This should include, but not limited to :
+- [ ] Decided on the details for your compay. This should include, but not limited to :
   - [ ] Name
-  - [ ] Type of Cuisine
+  - [ ] Type of product
   - [ ] Location(s)
   - [ ] Upcoming events
-  - [ ] 3 featured dishes
+  - [ ] 3 featured products/services
 - [ ] Create the semantic HTML for the all the details above
 - [ ] Add at least 3 images
 - [ ] Create at least 3 links on the page
