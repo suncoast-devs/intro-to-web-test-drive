@@ -31,8 +31,7 @@ To start, you will need to start with the HTML and content.
   - [ ] a few sections about the restaurant, get creative here
   - [ ] Contact information
   - [ ] a footer
-- [ ] Push your site to GitHub
-- [ ] Deploy your site.
+- [ ] Start your project on Glitch.com
 
 **NOTE**: Remember, this is all about content, do not worry about making your website look nice, we will do that later.
 
