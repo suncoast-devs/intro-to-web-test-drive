@@ -32,6 +32,7 @@ To start, you will need to start with the HTML and content.
   - [ ] Contact information
   - [ ] a footer
 - [ ] Start your project on Glitch.com
+    - [ ] Send your glitch project url (ie https://romantic-wasabi.glitch.me/) to the instructor via Slack.
 
 **NOTE**: Remember, this is all about content, do not worry about making your website look nice, we will do that later.
 
