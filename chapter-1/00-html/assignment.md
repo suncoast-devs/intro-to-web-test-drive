@@ -1,6 +1,6 @@
 # It all starts with HTML
 
-Over the course, you will be builing a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). This will have a few pages and will serve for us as a playground to learn about web development.
+Over the course, you will be building a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). This will have a few pages and will serve for us as a playground to learn about web development.
 
 All web pages have to start somewhere, and this site is no different. To start off, you will be laying the groundwork for the weeks to come.
 

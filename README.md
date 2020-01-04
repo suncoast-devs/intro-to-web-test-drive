@@ -28,10 +28,15 @@ Lectures will be recorded and available online after class.
 
 ## Schedule
 
-Saturdays 10 am to 12 pm: lecture
-12 PM to 1 PM: lunch
-1 PM to 2 PM: lab
-2 PM to 3 PM: review
+Saturdays 
+
+lecture: 10 AM - 12 PM
+
+lunch: 12 PM to 1 PM
+
+Lab: 1 PM to 2 PM
+
+Review: 2 PM to 3 PM
 
 _Course schedule might change at instructors discretion._
 
@@ -46,7 +51,7 @@ _Course schedule might change at instructors discretion._
 
 ## Course Outline
 
-Over the course, you will be builing a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
+Over the course, you will be building a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
 
 We will be using glitch.com to create your website.  It is a free service that allows you to create and edit your website in the browser.  During the last week, we will explore the developer environment and build a project 'from scratch.'
 
