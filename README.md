@@ -24,6 +24,8 @@ By the end of the course, students should be able to:
 
 Each class will consist of a 2 hour morning lecture, lunch, lab time and a short review or mini afternoon lecture.  There will be one ongoing homework assignment that is assigned at the end of day 1. This will be one big website that the student will grow over the course.  
 
+Lectures will be recorded and available online after class.
+
 ## Schedule
 
 Saturdays 10 am to 12 pm: lecture
@@ -44,7 +46,9 @@ _Course schedule might change at instructors discretion._
 
 ## Course Outline
 
-Over the course, you will be builing a website for a hotel, restaurant, flower shop, or local organization.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
+Over the course, you will be builing a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
+
+We will be using glitch.com to create your website.  It is a free service that allows you to create and edit your website in the browser.  During the last week, we will explore the developer environment and build a project 'from scratch.'
 
 ### Chapter 1: HTML
 
