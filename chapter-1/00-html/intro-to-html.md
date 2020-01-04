@@ -17,7 +17,7 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 ## Slides
 
-- [https://slides.com/lizthrilla/test-drive-class1/](https://slides.com/lizthrilla/test-drive-class1)
+- [https://slides.com/lizthrilla/test-drive-first-class/](https://slides.com/lizthrilla/test-drive-first-class)
 
 ## Full Code Samples
 
