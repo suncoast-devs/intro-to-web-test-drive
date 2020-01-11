@@ -1,6 +1,6 @@
 # CSS all the things .
 
-During the course,you will be building a website for your new chain of restaurants. This will have a few pages and will serve for us as a playground to learn about web development.
+During the course,you will be building a website for your new company. This will have a few pages and will serve for us as a playground to learn about web development.
 
 Now that you have created the HTML, its time to give you page some personality. In class you learned about CSS. CSS is how we can make our websites look and feel good.
 
@@ -13,7 +13,6 @@ For this assignment you will be taking the HTML you made for the last project an
 ### Explorer Mode
 
 - [ ] Take the CSS ideas and tools that was discussed in class and apply those to your homework.
-- [ ] Successfully deploy your site and submit your repository in Github
 
 ### Adventure Mode
 - [ ] Play [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
