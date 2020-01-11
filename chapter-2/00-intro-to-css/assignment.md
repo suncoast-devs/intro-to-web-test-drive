@@ -6,6 +6,15 @@ Now that you have created the HTML, its time to give you page some personality. 
 
 For this assignment you will be taking the HTML you made for the last project and extending it to have some styling.
 
+### In Class Example
+
+-[https://glitch.com/~vine-gorilla](https://glitch.com/~vine-gorilla)
+
+### Slides
+
+- [Intro to CSS](https://slides.com/lizthrilla/test-drive-css#/)
+- [More CSS](https://slides.com/lizthrilla/more-css)
+
 ### Requirements
 
 - Apply the ideas and stylings that you learn about in class
