@@ -23,7 +23,7 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 **Review**
 
--[Web Accessibility](https://docs.google.com/presentation/d/1ZJEWYq5LRiO7Ts7CzKzperGndqZS3IqlaNnfmbYsHEs/edit?usp=sharing)
+- Web Accessibility](https://docs.google.com/presentation/d/1PYVK1etWcTdu_Zbp5YlURsUoI3FMI401eSm3kbbRvig/edit?usp=sharing)
 
 ## Full Code Samples
 
