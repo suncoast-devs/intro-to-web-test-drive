@@ -27,6 +27,7 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 ## Full Code Samples
 
+- [In Class Demo](https://liz-cat-hotel.glitch.me/)
 - list of tags here: https://suncoast.io/handbook/curriculum/fundamentals/static-sites/lectures/elements-we-like
   https://github.com/gstark/answer-key/tree/master/part-time/tourism
 
