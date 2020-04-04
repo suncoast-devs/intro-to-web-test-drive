@@ -41,3 +41,10 @@ For this assignment you will be taking the HTML you made for the last project an
 - [All the CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
 - [pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
 - [http://www.csszengarden.com/](http://www.csszengarden.com/)
+
+### Tools
+- [Color Hunt - Trendy Color Palettes](https://colorhunt.co/)
+- [CSS Gradient - Apply background color gradients with this took](https://cssgradient.io/)
+- [Page Ruler Redux - Chrome Extension](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en)
+- [ColorZilla - color picker Chrome Extension](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+- [Built in CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
