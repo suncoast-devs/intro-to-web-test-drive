@@ -48,3 +48,5 @@ For this assignment you will be taking the HTML you made for the last project an
 - [Page Ruler Redux - Chrome Extension](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en)
 - [ColorZilla - color picker Chrome Extension](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
 - [Built in CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- [Some nice Google Font Pairings](http://femmebot.github.io/google-type/)
+- [Google Fonts](https://fonts.google.com/)
