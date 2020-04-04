@@ -9,6 +9,7 @@ For this assignment you will be taking the HTML you made for the last project an
 ### In Class Example
 
 -[https://glitch.com/~liz-cat-hotel](https://glitch.com/~liz-cat-hotel)
+
 -[https://liz-cat-hotel.glitch.me/](https://liz-cat-hotel.glitch.me/)
 
 ### Slides
