@@ -34,7 +34,7 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 
 ## Possible Assignments
 
-- Adding CSS to our restaurant website
+- Adding CSS to our website
 
 ## Additional Resources
 

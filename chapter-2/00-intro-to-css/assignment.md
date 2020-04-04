@@ -1,4 +1,4 @@
-# CSS all the things .
+# CSS all the things.
 
 During the course,you will be building a website for your new company. This will have a few pages and will serve for us as a playground to learn about web development.
 
@@ -8,12 +8,12 @@ For this assignment you will be taking the HTML you made for the last project an
 
 ### In Class Example
 
--[https://glitch.com/~vine-gorilla](https://glitch.com/~vine-gorilla)
+-[https://glitch.com/~liz-cat-hotel](https://glitch.com/~liz-cat-hotel)
+-[https://liz-cat-hotel.glitch.me/](https://liz-cat-hotel.glitch.me/)
 
 ### Slides
 
 - [Intro to CSS](https://slides.com/lizthrilla/test-drive-css#/)
-- [More CSS](https://slides.com/lizthrilla/more-css)
 
 ### Requirements
 
@@ -22,9 +22,15 @@ For this assignment you will be taking the HTML you made for the last project an
 ### Explorer Mode
 
 - [ ] Take the CSS ideas and tools that was discussed in class and apply those to your homework.
+- [ ] Focus on how the content looks, not how it is laid out
 
 ### Adventure Mode
-- [ ] Play [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
+
+- [ ] Play [Bento CSS](https://flukeout.github.io/) to practice your css.
+
+### Epic Mode
+
+- [ ] Start researching and learning about [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Additional Resources
 
