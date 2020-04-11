@@ -14,6 +14,7 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 ### Slides
 
 - [More CSS](https://slides.com/lizthrilla/more-css)
+- [Mobile First Design](https://slides.com/lizthrilla/test-drive-mobile-first#/)
 
 ### Requirements
 
@@ -35,5 +36,6 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 ### Additional Resources
 
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
 - [CSS Gride Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
