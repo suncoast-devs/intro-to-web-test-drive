@@ -1,7 +1,7 @@
 # Introduction to JS
 
-Slides: [https://slides.com/lizthrilla/javascript/#/](https://slides.com/lizthrilla/javascript/#/)
-In Class Example: [https://glitch.com/~third-steep-eel](https://glitch.com/~third-steep-eel)
+- Slides: [https://slides.com/lizthrilla/javascript/#/](https://slides.com/lizthrilla/javascript/#/)
+- In Class Example: [https://glitch.com/~third-steep-eel](https://glitch.com/~third-steep-eel)
 
 ## [What is JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
@@ -200,6 +200,6 @@ document.addEventListener('DOMContentLoaded', main)
 
 ## Additional resources
 
-[w3schools](https://www.w3schools.com/js/js_intro.asp)
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-[Girl Develop It - Intro to Javascript](https://www.girldevelopit.com/materials/intro-js)
+- [w3schools](https://www.w3schools.com/js/js_intro.asp)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [Girl Develop It - Intro to Javascript](https://www.girldevelopit.com/materials/intro-js)

@@ -39,11 +39,6 @@ For the dark mode theme, you will create separate set of CSS classes that will b
 - [ ] Add another theme and/or input to further customize the user experience.
 - [ ] Read over useful [JavaScript string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods) and implement one.
 
-
-### Epic Mode
-
-- [ ] Start researching and learning about [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
 ### Additional Resources
 
 - [w3schools](https://www.w3schools.com/js/js_intro.asp)
