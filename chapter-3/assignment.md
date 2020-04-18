@@ -38,6 +38,7 @@ For the dark mode theme, you will create separate set of CSS classes that will b
 
 - [ ] Add another theme and/or input to further customize the user experience.
 - [ ] Read over useful [JavaScript string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods) and implement one.
+- [ ] Read over [JavaScript Basics](https://suncoast.io/handbook/curriculum/fundamentals/modules/javascript/lessons/javascript-basics/reading/intro/)
 
 ### Additional Resources
 
@@ -49,3 +50,5 @@ For the dark mode theme, you will create separate set of CSS classes that will b
 - [Removing classes via JavaScript](https://www.w3schools.com/howto/howto_js_add_class.asp)
 - [Add active classes via Javascript](https://www.w3schools.com/howto/howto_js_active_element.asp)
 
+- [handbook on github](https://github.com/suncoast-devs/handbook)
+- [Handbook on Suncoast.io](https://suncoast.io/handbook)
