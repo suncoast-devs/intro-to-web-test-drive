@@ -28,6 +28,7 @@ For this assignment you will make the dark mode/theme button more dynamic so tha
 ### Adventure Mode
 
 - [ ] Add a third theme and allow the user to chose between the themes.
+    - [ ] You will need to turn the button into a [select html element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 - [ ] Add a second page to your project and allow the user to move between the pages.
 
 ### Epic Mode 
