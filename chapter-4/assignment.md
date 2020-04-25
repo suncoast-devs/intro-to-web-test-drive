@@ -15,7 +15,7 @@ For this assignment you will make the dark mode/theme button more dynamic so tha
 
 ### Slides
 
-- [Intro to JS](https://slides.com/lizthrilla/javascript/#/)
+- [If/Else](https://slides.com/lizthrilla/if-else#/)
 
 ### Requirements
 
@@ -39,8 +39,8 @@ For this assignment you will make the dark mode/theme button more dynamic so tha
 
 ### Additional Resources
 
-- [w3schools](https://www.w3schools.com/js/js_intro.asp)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [MDN If... Else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+- [MDN Logical Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 - [MDN Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 - [Girl Develop It - Intro to Javascript](https://www.girldevelopit.com/materials/intro-js)
 - [Adding class names via Javascript](https://www.w3schools.com/howto/howto_js_add_class.asp)
