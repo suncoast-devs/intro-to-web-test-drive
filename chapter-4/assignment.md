@@ -1,4 +1,4 @@
-# Beginning JavaScript.
+# If/Else
 
 Over the next two weeks we will be adding JavaScript to our website.  Now that you have created the HTML and CSS, its time to use what we have learned to add more customization to our website with Javascript.
 
