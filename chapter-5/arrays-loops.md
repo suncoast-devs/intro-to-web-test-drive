@@ -154,5 +154,5 @@ for (let i= 0; i < disneyVillains.length; i++){
 - [MDN Docs on other array methods -- check the left side navigation!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [MDN Docs on strings methods -- you can play with strings like you do arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [In class example](https://glitch.com/~sdg-0502)
-- ["Starter" for the in class example](https://glitch.com/~quarantine-fun-jar-starter)*
+- ["Starter" for the in class example](https://glitch.com/~quarantine-fun-jar-starter)
     * a starter is a project you can use as a base to then personalize.  This one provides the html and `TODOs` to help you create your own fun jar project.  If you click view source and then "edit to remix" it will create a copy for you within glitch.
