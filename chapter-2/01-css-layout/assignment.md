@@ -14,7 +14,7 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 ### Slides
 
 - [More CSS](https://slides.com/lizthrilla/more-css)
-- [Mobile First Design](https://slides.com/lizthrilla/test-drive-mobile-first#/)
+- [Mobile First Design](https://slides.com/lizthrilla/test-drive-mobile-first/)
 
 ### Requirements
 
