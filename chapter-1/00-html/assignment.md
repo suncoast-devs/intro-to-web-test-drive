@@ -7,6 +7,7 @@ All web pages have to start somewhere, and this site is no different. To start o
 To start, you will need to start with the HTML and content.
 
 [Here is a sample of finished project](https://sdg-tourism.netlify.com/)
+
 [Another sample of an in class example](https://liz-cat-hotel.glitch.me/)
 
 [Here is how your homework will look](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-1/00-html/homework-sample.png)
