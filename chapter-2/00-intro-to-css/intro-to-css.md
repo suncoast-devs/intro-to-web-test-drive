@@ -45,7 +45,8 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 
     p {
       color: red;
-    }```
+    }
+    ```
 - Property and Value:
   - Property is the first part
     - ie background-color, height, font-weight, etc
