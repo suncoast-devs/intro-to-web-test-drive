@@ -20,7 +20,6 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 
 ## Full Code Samples
 
-- Full sample is `app-app` template.
 - list of tags here: https://suncoast.io/handbook/curriculum/fundamentals/static-sites/lectures/elements-we-like
 
 ## Lecture notes
@@ -29,8 +28,26 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
   - Semantic vs non-semantic
 - Review the good and bad of inline styling
 - What is CSS?
-  - CSS Stands for and how it is used
-- Go over flexbox
+  - cascading style sheets
+  - allows us to make a website look how we want it to
+  - a way to apply styules to your website both globally and singularly
+  - a set of rules
+- CSS Rules
+  - a set of properties which have values set to update how HTML content is displayed
+  - selectors reference the HTML tags to apply styles specifically to them
+- example:
+  - ```css
+    h1 {
+      color: blue;
+      background-color: yellow;
+      border: 1px solid black;
+    }
+
+    p {
+      color: red;
+    }
+  ```
+
 
 ## Possible Assignments
 

@@ -53,5 +53,6 @@ To start, you will need to start with the HTML and content.
 - [HTML Tag Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [How do HTML Tags work](https://developer.mozilla.org/en-US/Learn/HTML/HTML_tags)
 - [Evolution of the Web](http://www.evolutionoftheweb.com)
+- [Ipsum Generators](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 - [Getting started with VS Code](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Visual Studio Code Basics](https://code.visualstudio.com/docs/introvideos/basics)
