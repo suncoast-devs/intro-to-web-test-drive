@@ -46,7 +46,20 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
     p {
       color: red;
     }```
-- Property and Value
+- Property and Value:
+  - Property is the first part
+    - ie background-color, height, font-weight, etc
+  - value is what comes afer the colon
+    -ie - blue, yellow, 1px solid black
+  - there are over 300 different css properties to chose from. HAVE FUN WITH IT!
+- Class selectors
+  - Classes are selectors we use to apply more specific rule sets 
+  - If you don't want to apply it to every `<p>` tag but to a select few you would add `class=yourClassName`
+    - Classes are represented in CSS with a period in front: `.yourClassName`
+- ID Selectors
+  - IDs are even more specific selectors
+  - If you want to apply to only one specific item in the document you would add `id="yourIdName"`
+    - IDs are represented in CSS with a `#` in front: `#yourIdName`
 
 
 ## Possible Assignments
@@ -55,10 +68,24 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 
 ## Additional Resources
 
-- [list of tags here](https://suncoast.io/handbook/curriculum/fundamentals/static-sites/lectures/elements-we-like)
-- [HTML Tag Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [How do HTML Tags work](https://developer.mozilla.org/en-US/Learn/HTML/HTML_tags)
+- [SDG handbook on CSS](https://handbook.suncoast.io/lessons/css-intro)
+- [list of properties here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
+- [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+- [Getting Started with CSS Rules](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset)
+- [All the CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
 - [Evolution of the Web](http://www.evolutionoftheweb.com)
+- [http://www.csszengarden.com/](http://www.csszengarden.com/)
+
+
+## Tools
+
+- [Color Hunt - Trendy Color Palettes](https://colorhunt.co/)
+- [CSS Gradient - Apply background color gradients with this took](https://cssgradient.io/)
+- [Page Ruler Redux - Chrome Extension](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en)
+- [ColorZilla - color picker Chrome Extension](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+- [Built in CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- [Some nice Google Font Pairings](http://femmebot.github.io/google-type/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## Next Lectures
 
