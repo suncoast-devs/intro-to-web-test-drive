@@ -32,6 +32,7 @@ For this assignment you will be taking the HTML you made for the last project an
 ### Epic Mode
 
 - [ ] Start researching and learning about [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] Add a second page to your website and link to it
 
 ### Additional Resources
 
@@ -40,7 +41,7 @@ For this assignment you will be taking the HTML you made for the last project an
 - [Getting Started with CSS Rules](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset)
 - [All the CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
 - [pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
-- [http://www.csszengarden.com/](http://www.csszengarden.com/)
+- [Examples of CSS designs](http://www.csszengarden.com/)
 
 ### Tools
 - [Color Hunt - Trendy Color Palettes](https://colorhunt.co/)

@@ -40,3 +40,4 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 - [CSS Gride Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 - [CSS Art](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
+- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

@@ -70,7 +70,7 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 ## Additional Resources
 
 - [SDG handbook on CSS](https://handbook.suncoast.io/lessons/css-intro)
-- [list of properties here](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
+- [Common CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - [Getting Started with CSS Rules](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset)
 - [All the CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)

@@ -15,7 +15,7 @@ In this lecture, the students will grow their knowledge of css can do and learn 
 
 ## Slides
 
-https://slides.com/markdewey-1/laying-out-a-pagelaying-out-a-page#/
+https://slides.com/lizthrilla/more-css
 
 ## Full Code Samples
 
@@ -27,16 +27,17 @@ https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
 
 - quick review of HTML vs CSS
 - go over simple styling use cases of CSS
-- go over box model
-- intro the idea that CSS can do page layout as well
-- intro flexbox
-- (maybe) mention CSS Grid, but don't go too deep
-- explain the follow terms
-  - flex-container
-  - flex-item
-  - flex-axis
-  - cross-axis
-- `<break/>`
+- CSS can be used to creat the layout of your page
+- The [box model](https://handbook.suncoast.io/lessons/css-intro/the-box-model)
+- [Flexbox](https://handbook.suncoast.io/lessons/css-layout/flexbox)
+  - short name for the Flexible Box Layout Module
+  - designed to make it easy for us to lay things out in one dimension — either as a row or as a column.
+  - Allows us to create flexible and responsive layouts
+  - With flexbox we do not need to rely on other legacy techniques
+    - legacies include: floats and positioning 
+- Elements are laid out on two axes
+- include `display: flex` to use flex
+
 
 ## Possible Assignments
 
@@ -44,6 +45,8 @@ https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
 
 ## Additional Resources
 
+- [SDG Handbook - CSS Layouts](https://handbook.suncoast.io/lessons/css-layout)
+- [FLexbox Indepth](https://handbook.suncoast.io/lessons/css-layout/flexbox-in-depth)
 - [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Recommended Practice:
