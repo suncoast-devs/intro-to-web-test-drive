@@ -45,8 +45,8 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 
     p {
       color: red;
-    }
-  ```
+    }```
+- Property and Value
 
 
 ## Possible Assignments
