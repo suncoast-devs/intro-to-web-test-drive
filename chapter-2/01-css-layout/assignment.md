@@ -31,6 +31,7 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 
 ### Epic Mode
 
+- [ ] Play [CSS Grid Garden](https://cssgridgarden.com/) to learn more about CSS Grid
 - [ ] Incorporate CSS Grid into your project
 
 ### Additional Resources
