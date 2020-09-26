@@ -41,7 +41,7 @@ https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
 
 ## Possible Assignments
 
-- add flexbox to our restaurant page
+- add flexbox and/or grid to our page
 
 ## Additional Resources
 

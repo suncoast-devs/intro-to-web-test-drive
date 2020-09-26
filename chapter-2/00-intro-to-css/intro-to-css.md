@@ -90,4 +90,4 @@ This is the basic intro to CSS. This lecture is what will review HTML and introd
 
 ## Next Lectures
 
-- Responsive CSS and Flexbox
+- [CSS Layouts](https://handbook.suncoast.io/lessons/css-layout)
