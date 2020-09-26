@@ -7,10 +7,9 @@ Now that you have created the HTML, its time to give you page some personality. 
 For this assignment you will be taking the HTML you made for the last project and extending it to have some styling.
 
 ### In Class Example
+- [https://glitch.com/~test-drive-09-20](https://glitch.com/~test-drive-09-20)
 
-- [https://glitch.com/~liz-cat-hotel](https://glitch.com/~liz-cat-hotel)
-
-- [https://liz-cat-hotel.glitch.me/](https://liz-cat-hotel.glitch.me/)
+- [https://test-drive-09-20.glitch.me/](https://test-drive-09-20.glitch.me/)
 
 ### Slides
 
@@ -31,7 +30,7 @@ For this assignment you will be taking the HTML you made for the last project an
 
 ### Epic Mode
 
-- [ ] Start researching and learning about [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] Start researching and learning about [CSS Layouts](https://handbook.suncoast.io/lessons/css-layout)
 - [ ] Add a second page to your website and link to it
 
 ### Additional Resources
@@ -51,3 +50,6 @@ For this assignment you will be taking the HTML you made for the last project an
 - [Built in CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 - [Some nice Google Font Pairings](http://femmebot.github.io/google-type/)
 - [Google Fonts](https://fonts.google.com/)
+- [Patternizer](https://patternizer.com/ydjm)
+- [Codepen](https://codepen.io) - similar to glitch but is fun to explore and see what people do with HTML, CSS, and Javascript
+- [Image Effects](https://bennettfeely.com/image-effects/) - different ways to manipulate a source image
