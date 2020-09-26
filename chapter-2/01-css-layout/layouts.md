@@ -1,6 +1,6 @@
-# Intro to Flexbox
+# Intro to CSS Layouts
 
-In this lecture, the students will grow their knowledge of css can do and learn about using Flexbox to layout a page. This covers and focuses the basics of using flexbox as well as building a few common examples
+In this lecture, the students will grow their knowledge of css can do and learn about using Flexbox and Grid to layout a page. This covers and focuses the basics of using flexbox and Grid as well as building a few common examples.
 
 ## Learning Objectives
 
@@ -46,12 +46,19 @@ https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
 ## Additional Resources
 
 - [SDG Handbook - CSS Layouts](https://handbook.suncoast.io/lessons/css-layout)
-- [FLexbox Indepth](https://handbook.suncoast.io/lessons/css-layout/flexbox-in-depth)
-- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Indepth](https://handbook.suncoast.io/lessons/css-layout/flexbox-in-depth)
+- [CSS Grid indepth](https://handbook.suncoast.io/lessons/css-layout/grid)
+- [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
+- [CSS Gride Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+- [CSS Art](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
+- [CSS Tricks guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Recommended Practice:
 
-- [https://flexboxfroggy.com](https://flexboxfroggy.com)
+- [Flexbox Froggy](https://flexboxfroggy.com)
+- [CSS Grid Garden](https://cssgridgarden.com/)
 
 ## Next Lectures
 
