@@ -22,33 +22,38 @@ By the end of the course, students should be able to:
 
 ## Class Structure:
 
-Each lesson will be taught in a two hour block. There will be one ongoing homework assignment that is assigned at the end of day 2. This will be one big website that the student will grow over the course.
+Each class will consist of a 2 hour morning lecture, lunch, lab time and a short review or mini afternoon lecture.  There will be one ongoing homework assignment that is assigned at the end of day 1. This will be one big website that the student will grow over the course.  
+
+Lectures will be recorded and available online after class.
 
 ## Schedule
 
-Monday and Wednesday: 6:30pm - 8:30p
+Saturdays 
+
+lecture: 10 AM - 12 PM
+
+lunch: 12 PM to 1 PM
+
+Lab: 1 PM to 2 PM
+
+Review: 2 PM to 3 PM
 
 _Course schedule might change at instructors discretion._
 
-| Week # |    First Lecture    |     Second Lecture      |                  Projects                  |
+| Week # |       Lecture       |    Afternoon Review     |                  Projects                  |
 | :----: | :-----------------: | :---------------------: | :----------------------------------------: |
-|   1    |      Dev Env,       |      Semantic HTML      |      Create the HTML for your project      |
-|   2    |    Intro to CSS     |     Responsive CSS      | Add CSS and Responsive CSS to your project |
-|   3    | Practice(HTML, CSS) |    Intro to JS & DOM    |  Finish of the CSS, read about javascript  |
-|   4    |   Control Flow I    |     Data Structures     |       Add JavaScript to your project       |
-|   5    |    Functional JS    |     PEDAC practice      |       Add JavaScript to your project       |
-|   6    |     Using APIs      | Practice(HTML, CSS, JS) |           Completed your project           |
+|   1    |    Semantic HTML    |    Web Accessibility    |      Create the HTML for your project      |
+|   2    |    Intro to CSS     |         Tooling         |          Add CSS to your project           |
+|   3    |      Flexbox        |         CSS Grid        |            Add Responsive CSS              |
+|   4    |    Media Queries    |   Mobile First Design   |         Finish CSS on your project         |
+|   5    |     Intro to JS     |     Using JS w/CSS      |       Add JavaScript to your project       |
+|   6    | Tools/new project   |    Finishing touches    |           Completed your project           |
 
 ## Course Outline
 
-Over the course, you will be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
+Over the course, you will be building a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). Use the topic of the day to build out different sections.
 
-### Chapter 0: Dev Env
-
-**Instruction:**
-
-- Using a developer environment (Git, IDE, terminal)
-- Deploy a web page
+We will be using glitch.com to create your website.  It is a free service that allows you to create and edit your website in the browser.  During the last week, we will explore the developer environment and build a project 'from scratch.'
 
 ### Chapter 1: HTML
 
@@ -58,38 +63,63 @@ Over the course, you will be creating a clone of [https://sdg-tourism.netlify.co
 - Using semantic HTML
 - How to breakdown and implement a basic webpage design
 
+**Review**
+- Web accessibility: why and how.
+
 ### Chapter 2: CSS Application
 
 **Instruction:**
 
+- inline styling aka why CSS matters
 - Using CSS to style a page
 - Using CSS to layout a page
 - Creating Responsive webpages
-- Advanced CSS tricks (variables, pseudo-selectors, etc... )
-- Using CDNs
 
-### Chapter 3: JavaScript on the Web
+**Review**
+
+- Getting to know your Dev Chrome Tools
+
+### Chapter 3: Intermediate CSS
+
+**Instruction**
+
+- Flexbox
+- Responsive CSS
+
+**Review**
+
+- CSS Grid
+
+### Chapter 4: Advanced CSS
+
+**Instruction**
+
+- Making it look good on mobile
+- Media queries
+
+**Review**
+
+- Javascript types, the console and DOM.
+
+### Chapter 5: Intro to Javascript
 
 **Instruction:**
 
-- What is the DOM?
-- Using JavaScript on a webpage
-- Control Flow (if, loops, functions)
-- Basic algorithmic thinking
+- Intro to Javascript
+- Using Javascript to affect your CSS
 
-## Chapter 4: Data Structures and Algorithms
+**Review**
 
-**Instruction:**
+- Conditional Statements
 
-- Arrays
-- Map, filter, reduce
-- Objects
-- Applications of Algorithms
+### Chapter 6: Putting it altogether
 
-## Chapter 5: APIs and Bringing it all Together
+**Instruction**
 
-**Instruction:**
+- Arrays and loops
+- Inputs and Javascript
 
-- Using an API to get data
-- Building a full website, using an API
-- Practical application of PEDAC and JavaScript
+**Review**
+
+- Introduction to the developer environment
+- Building a project togehter from scratch (fun jar)
