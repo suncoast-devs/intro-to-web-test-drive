@@ -27,20 +27,14 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 ### Adventure Mode
 
 - [ ] Apply media queries for larger screens or other media.
+- [ ] Continue practicing [Flexbox Froggy](https://flexboxfroggy.com/) and [CSS Grid Garden](https://codepip.com/games/grid-garden/)
 
 ### Epic Mode
 
-- [ ] Begin picking colors or a "dark mode" for your website
-- [ ] Continue practicing [Flexbox Froggy](https://flexboxfroggy.com/) and [CSS Grid Garden](https://codepip.com/games/grid-garden/)
+- [ ] Begin picking colors or a "dark mode" for your website.
+- [ ] Read [Intro to JavaScript](https://handbook.suncoast.io/lessons/js-intro)
 
 ### Additional Resources
 
 - [Introduction to responsive web](https://handbook.suncoast.io/lessons/css-responsive)
 - [Media Queries](https://handbook.suncoast.io/lessons/css-responsive/media-query-details)
-- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
-- [CSS Gride Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
-- [CSS Art](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
-- [CSS Tricks guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [CSS Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
