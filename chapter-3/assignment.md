@@ -2,9 +2,7 @@
 
 Over the next two weeks we will be adding JavaScript to our website.  Now that you have created the HTML and CSS, its time to use what we have learned to add more customization to our website with Javascript.
 
-For this assignment you will be allowing a user to customize the website with their name and creating a button that applies a dark mode theme.  
-
-For the users name, you will add a single text input where a user can type their name and button which will display a welcome text with the user's name.   
+For this assignment you will be allowing a user to customize the website experience by creating a button that applies a dark mode theme.   
 
 For the dark mode theme, you will create separate set of CSS classes that will be applied when a user presses a button called Dark Mode.
 
