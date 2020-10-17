@@ -79,7 +79,7 @@ We will be using glitch.com to create your website.  It is a free service that a
 
 - Getting to know your Dev Chrome Tools
 
-### Chapter 3: Intermedia CSS
+### Chapter 3: Intermediate CSS
 
 **Instruction**
 
@@ -99,27 +99,27 @@ We will be using glitch.com to create your website.  It is a free service that a
 
 **Review**
 
-- The importance of mobile first design
+- Javascript types, the console and DOM.
 
 ### Chapter 5: Intro to Javascript
 
 **Instruction:**
 
-- What is the DOM?
-- Using JavaScript on a webpage
+- Intro to Javascript
+- Using Javascript to affect your CSS
 
 **Review**
 
-- Using Javascript to affect your CSS
-- Optional: introduction to the developer environment
+- Conditional Statements
 
 ### Chapter 6: Putting it altogether
 
 **Instruction**
 
-- Introduction to the developer environment
-- Builing a project togehter from scratch
+- Arrays and loops
+- Inputs and Javascript
 
 **Review**
 
-- Deploying a new website
+- Introduction to the developer environment
+- Building a project togehter from scratch (fun jar)

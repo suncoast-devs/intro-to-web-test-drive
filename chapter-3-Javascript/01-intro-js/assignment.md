@@ -29,14 +29,13 @@ For the dark mode theme, you will create separate set of CSS classes that will b
 
 ### Adventure Mode
 
-- [ ] Use if/else statements to change the two buttons to one dark mode/light mode button.
+- [ ] Use [if/else (conditional)](https://handbook.suncoast.io/lessons/js-intro/control-flow#conditional-statements) statements to change the two buttons to one dark mode/light mode button.
 - [ ] Add a drop down menu using [relative and absolute positioning](https://handbook.suncoast.io/lessons/css-layout/positioning).
 
 ### Epic Mode
 
-- [ ] Add an [event](https://developer.mozilla.org/en-US/docs/Web/Events) other than "click" to change your site's css
-- [ ] Read over useful [JavaScript string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods) and implement one.
-- [ ] Read over [JavaScript Basics](https://suncoast.io/handbook/curriculum/fundamentals/modules/javascript/lessons/javascript-basics/reading/intro/)
+- [ ] Add an [event](https://developer.mozilla.org/en-US/docs/Web/Events) other than "click" to change your site's css.
+- [ ] Read over [JavaScript Basics](https://handbook.suncoast.io/lessons/js-intro)
 
 ### Additional Resources
 
