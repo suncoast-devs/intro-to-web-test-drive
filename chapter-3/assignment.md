@@ -10,9 +10,9 @@ For the dark mode theme, you will create separate set of CSS classes that will b
 
 ### In Class Example
 
-- [https://glitch.com/~liz-cat-hotel](https://glitch.com/~liz-cat-hotel)
+- [https://glitch.com/~test-drive-09-20](https://glitch.com/~test-drive-09-20)
 
-- [https://liz-cat-hotel.glitch.me/](https://liz-cat-hotel.glitch.me/)
+- [https://test-drive-09-20.glitch.me/](https://test-drive-09-20.glitch.me/)
 
 - [In class example of very basic button and input](https://glitch.com/~third-steep-eel)
 
